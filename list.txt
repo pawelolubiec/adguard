@@ -43,4 +43,12 @@ filehosting.org
 senduit.com
 sendfiles.online
 file.pizza
-
+brave.com
+updates.brave.com
+rewards.brave.com
+clientupdater.brave.com
+guardian.brave.com
+vpn0.brave.com
+vpn1.brave.com
+vpn2.brave.com
+api.guardianapp.com
