@@ -136,3 +136,13 @@ guardianapp.com
 api.guardianapp.com
 config.guardianapp.com
 v3.guardianapp.com
+
+vpn-api.operavpn.com
+vpn.operavpn.com
+
+vpn.mozilla.org
+api.prod.vpn.mozilla.net
+
+mozilla.cloudflare-dns.com
+doh.opendns.com
+dns.quad9.net
