@@ -131,3 +131,8 @@ api.turbovpn.co
 # Psiphon
 psiphon.ca
 api.psiphon.ca
+
+guardianapp.com
+api.guardianapp.com
+config.guardianapp.com
+v3.guardianapp.com
