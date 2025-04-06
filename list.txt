@@ -52,3 +52,82 @@ vpn0.brave.com
 vpn1.brave.com
 vpn2.brave.com
 api.guardianapp.com
+# Brave VPN & Browser
+guardian.brave.com
+vpn0.brave.com
+vpn1.brave.com
+api.guardianapp.com
+brave.com
+updates.brave.com
+rewards.brave.com
+
+# Cloudflare Warp / 1.1.1.1 VPN
+
+
+# NordVPN
+nordvpn.com
+*.nordvpn.com
+downloads.nordcdn.com
+api.nordvpn.com
+
+# ExpressVPN
+expressvpn.com
+api.expressapi.net
+www.expressvpn.works
+expressvpn.akamaized.net
+
+# ProtonVPN
+protonvpn.com
+api.protonvpn.ch
+protonmail.ch
+api.protonmail.ch
+
+# Surfshark
+surfshark.com
+api.surfshark.com
+account.surfshark.com
+
+# Windscribe
+windscribe.com
+api.windscribe.com
+assets.windscribe.com
+
+# TunnelBear
+tunnelbear.com
+api.tunnelbear.com
+
+# Hide.me VPN
+hide.me
+api.hide.me
+
+# CyberGhost VPN
+cyberghostvpn.com
+api.cyberghostvpn.com
+download.cyberghostvpn.com
+
+# Hotspot Shield
+hotspotshield.com
+anchorfree.net
+api.hotspotshield.com
+
+# Private Internet Access (PIA)
+privateinternetaccess.com
+api.privateinternetaccess.com
+
+
+
+# Betternet VPN
+betternet.co
+api.betternet.co
+
+# IPVanish
+ipvanish.com
+api.ipvanish.com
+
+# Turbo VPN
+turbovpn.co
+api.turbovpn.co
+
+# Psiphon
+psiphon.ca
+api.psiphon.ca
